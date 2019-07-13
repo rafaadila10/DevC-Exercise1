@@ -1,0 +1,56 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	width: 95%;
+	height: 100%;
+	border-radius: 10px;
+	margin-left: 2.5%;
+	background-color: #c7861e;
+	margin-top: 20px;
+}
+
+.foto-nama {
+	padding: 3%;
+	float: left;
+}
+
+.foto-nama img {
+	width: 150px;
+	height: 200px;
+	border-radius: 40%;
+	float: left;
+	margin-left: 10%;
+}
+
+.foto-nama h1 {
+	width: 70%;
+	color: #c7861e;
+	background-color: black;
+	text-transform: uppercase;
+	font-family: arial;
+	border-radius: 10px;
+	margin-left: 15%;
+}
+
+.foto-nama p {
+	background-color: black;
+	color: #c7861e;
+	width: 70%;
+	font-size: 20px;
+	margin-left: 20%;
+	font-family: calibri;
+	margin-top: 20px;
+}
+
+.data-diri {
+	width: 30%;
+	float: left;
+	margin-left: 2%;
+}
+
+.data-diri li {
+	list-style: none;
+}
